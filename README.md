@@ -79,7 +79,7 @@ Use the outputs produced by the notebook when reporting final model performance.
 
 ## Tools and technologies
 
-Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Jupyter Notebook, and Excel.
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Jupyter Notebook and Excel.
 
 ## Notes
 
