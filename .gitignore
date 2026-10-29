@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editor / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local secrets and environment files
+.env
+
+# Optional: uncomment if you do not have permission to redistribute the dataset
+# data/Telco_customer_churn.xlsx
